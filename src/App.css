@@ -130,6 +130,7 @@
 
     background-image: url('/images/bg-pattern-desktop.svg');
     background-position: right center;
+    background-size: 120%;
     background-repeat: no-repeat;
   }
 
