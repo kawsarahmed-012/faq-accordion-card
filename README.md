@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/kawsarahmed-012/faq-accordion-card)
-- Live Site URL: [](https://faq-accordion-card-kawsar.netlify.app)
+- [Solution URL](https://github.com/kawsarahmed-012/faq-accordion-card)
+- [Live Site URL](https://faq-accordion-card-kawsar.netlify.app)
 
 ## My process
 
