@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I was really a big challange to make the website perfectly responsive. Aligning the images in desktop mode was tough. I learned how to mannual position images in responsive mode.
+It was really a big challange to make the website perfectly responsive. Aligning the images in desktop mode was tough. I learned how to mannual position images in responsive mode.
 
 ### Useful resources
 
